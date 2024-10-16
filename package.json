@@ -1,6 +1,6 @@
 {
 	"name": "my-project",
-	"homepage": "https://hamzaabbas34.github.io/my-project",
+	"homepage": "/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

@@ -21,6 +21,7 @@ export default function App() {
 					<Route path="/recording" element={<Record />} />
 					<Route path="/admin" element={<Admin />} />
 					<Route path="/goals" element={<Goals />} />
+					<Route path="/goals" element={<Goals />} />
 					<Route path="/settings" element={<Settings />}>
 						<Route index element={<Mydetails />} />
 					</Route>
